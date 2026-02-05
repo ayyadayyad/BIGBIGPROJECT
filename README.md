@@ -1,11 +1,11 @@
-# 📊 UK Road Safety Analysis Dashboard
+# UK Road Safety Analysis Dashboard
 
-## 🔍 Executive Summary
+##  Executive Summary
 This project applies Business Intelligence (BI) and Data Science techniques to analyze UK road safety data, uncovering trends, diagnosing causes of accidents, and delivering actionable insights. Through interactive dashboards and diagnostic analytics, the project aims to support evidence-based safety recommendations and preventative strategies.
 
 ---
 
-## 📖 Table of Contents
+## Table of Contents
 1. **Project Objectives**
 2. **Dataset Overview**
 3. **Technologies & Tools**
@@ -22,7 +22,7 @@ This project applies Business Intelligence (BI) and Data Science techniques to a
 
 ---
 
-## 🏆 Project Objectives
+##  Project Objectives
 - **Integrate & Clean Road Safety Data**: Merge Accidents, Vehicles, and Casualties datasets into a master dataset with cleaned, decoded variables.
 - **Perform Exploratory & Diagnostic Analysis**: Identify patterns in accident frequency, severity, and contributing factors.
 - **Develop Interactive Visualizations**: Build a dashboard to explore accident hotspots, weather impacts, vehicle types, and casualty demographics.
@@ -30,7 +30,7 @@ This project applies Business Intelligence (BI) and Data Science techniques to a
 
 ---
 
-## 📁 Dataset Overview
+##  Dataset Overview
 - **Source**: UK Road Safety datasets (Accidents, Vehicles, Casualties) with Lookup Reference tables.
 - **Volume**: Multi-year accident records across the UK.
 - **Primary Attributes**:
